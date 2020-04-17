@@ -2,7 +2,7 @@ This Git repo contains some meticulous and conscientiously prepared hand-written
 
 ## Real Analysis
 
-- [Basic Notions][Real Analysis/01_basic_notions.pdf].
+- [Basic Notions](Real Analysis/01_basic_notions.pdf).
 
 ## Functional Analysis
 ## Measure Theory
