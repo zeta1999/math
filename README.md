@@ -5,7 +5,8 @@ This Git repo contains some *meticulous* and *conscientiously* prepared hand-wri
 | Chapter | Section |
 | --- | --- |
 | 1. Basic Notions  | [Natural numbers](https://github.com/quantophile/math/blob/master/Real%20Analysis/01-1-natural_numbers.pdf) |
-| | Sets|
+| | [Sets](https://github.com/quantophile/math/blob/master/Real%20Analysis/01-2-set_theory.pdf)|
+| | Functions |
 
 ## Functional Analysis
 ## Measure Theory
