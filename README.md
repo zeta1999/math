@@ -30,5 +30,7 @@ This Git repo contains some *meticulous* and *conscientiously* prepared hand-wri
 | | [Linear first order differential equations](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-3-Linear_first_order_differential_equations.pdf)|
 | | [Existence and uniqueness of solutions](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-4-existence_and_uniqueness_of_solutions.pdf)|
 | | [Dimension of the solution space](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-5-dimension_of_the_solution_space.pdf)|
+| | [The Wronskian](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-6-the_wronskian.pdf)|
+| | [Abel's Formula](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-7-abels_formula.pdf)|
 
 ### PDEs
