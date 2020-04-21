@@ -11,7 +11,7 @@ This Git repo contains some *meticulous* and *conscientiously* prepared hand-wri
 ## Functional Analysis
 ## Measure Theory
 ## Vector Calculus
-## Basic Probability theory
+## Undergraduate Probability theory
 
 | Chapter | Section |
 | --- | --- |
