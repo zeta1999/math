@@ -32,5 +32,6 @@ This Git repo contains some *meticulous* and *conscientiously* prepared hand-wri
 | | [Dimension of the solution space](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-5-dimension_of_the_solution_space.pdf)|
 | | [The Wronskian](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-6-the_wronskian.pdf)|
 | | [Abel's Formula](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-7_abels_formula.pdf)|
+| 5. Equations with constant coefficients | |
 
 ### PDEs
