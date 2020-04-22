@@ -25,6 +25,10 @@ This Git repo contains some *meticulous* and *conscientiously* prepared hand-wri
 
 | Chapter | Section |
 | --- | --- |
+| 1. Vector Spaces | [Introduction](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/01-1-introduction.pdf)|
+| | [Vector spaces](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/01-2-vector_spaces.pdf)|
+| | [Subspaces](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/01-3-subspaces.pdf)|
+| | [Sums and Direct Sums](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/01-4-sums_and_direct_sums.pdf)|
 | 4. The general theory of linear differential equations  | [Linear differential operators](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-01-linear_differential_operators.pdf) |
 | | [Linear differential equations](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-2-Linear_differential_equations.pdf)|
 | | [Linear first order differential equations](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-3-Linear_first_order_differential_equations.pdf)|
@@ -32,6 +36,6 @@ This Git repo contains some *meticulous* and *conscientiously* prepared hand-wri
 | | [Dimension of the solution space](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-5-dimension_of_the_solution_space.pdf)|
 | | [The Wronskian](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-6-the_wronskian.pdf)|
 | | [Abel's Formula](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-7_abels_formula.pdf)|
-| 5. Equations with constant coefficients | |
+| 5. Equations with constant coefficients | [Introduction](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-1-introduction.pdf)|
 
 ### PDEs
