@@ -37,5 +37,7 @@ This Git repo contains some *meticulous* and *conscientiously* prepared hand-wri
 | | [The Wronskian](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-6-the_wronskian.pdf)|
 | | [Abel's Formula](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/04-7_abels_formula.pdf)|
 | 5. Equations with constant coefficients | [Introduction](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-1-introduction.pdf)|
+| | [Linear homogeneous equations of order two](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-2-linear_homogenous_equations_of_order_2.pdf)|
+| | [Homogeneous equations of arbitrary order](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-3-homogenous_equations_of_arbitrary_order.pdf)|
 
 ### PDEs
