@@ -1,4 +1,4 @@
-This Git repo contains some *meticulous* and *conscientiously* prepared hand-written notes on various **undergraduate mathematics courses** I have taken. Against each subject, are links to reference books I solved through.
+This Git repo contains *meticulous* and *conscientiously* written notes on **mathematics courses** I have taken. I hope you will have fun!
 
 ## Real Analysis
 
