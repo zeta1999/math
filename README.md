@@ -1,4 +1,4 @@
-This Git repo contains *meticulous* and *conscientiously* written notes on **mathematics courses** I have taken. I hope you will have fun!
+This Git repo contains meticulous and conscientiously written notes on **mathematics courses** I have taken. I hope you will have fun!
 
 ## Real Analysis
 
