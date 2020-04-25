@@ -39,6 +39,6 @@ This Git repo contains meticulous and conscientiously written notes on **mathema
 | 5. Equations with constant coefficients | [Introduction](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-1-introduction.pdf)|
 | | [Linear homogeneous equations of order two](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-2-linear_homogenous_equations_of_order_2.pdf)|
 | | [Homogeneous equations of arbitrary order](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-3-homogenous_equations_of_arbitrary_order.pdf)|
-| | [Non-homogeneous equations, variation of parameters and Green's function](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-4-non_homogeneous_equations_variation_of_params_and_greens_fnctions.pdf)|
+| | [Non-homogeneous equations, variation of parameters and Green's function](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-4-non_homogeneous_equations_variation_of_params_and_greens_functions.pdf)|
 
 ### PDEs
