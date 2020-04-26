@@ -40,5 +40,5 @@ This Git repo contains meticulous and conscientiously written notes on **mathema
 | | [Linear homogeneous equations of order two](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-2-linear_homogenous_equations_of_order_2.pdf)|
 | | [Homogeneous equations of arbitrary order](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-3-homogenous_equations_of_arbitrary_order.pdf)|
 | | [Non-homogeneous equations, variation of parameters and Green's function](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05-4-non-homogeneous_equations_variation_of_params_and_greens_functions.pdf)|
-
+| | [Variation of parameters and Green's function extended to non-homogeneous equations of arbitrary order](https://github.com/quantophile/math/blob/master/ODEs%20and%20PDEs/05_5_variation_of_parameters_greens_functions_continued.pdf)|
 ### PDEs
