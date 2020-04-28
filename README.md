@@ -1,5 +1,11 @@
 This Git repo contains meticulous and conscientiously written notes on **mathematics courses** I have taken. I hope you will have fun!
 
+## Numerical Algorithms
+
+| Chapter | Section |
+| --- | --- |
+| Systems of Linear Algebraic Equations | |
+
 ## Real Analysis
 
 | Chapter | Section |
