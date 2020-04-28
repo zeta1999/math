@@ -4,7 +4,7 @@ This Git repo contains meticulous and conscientiously written notes on **mathema
 
 | Chapter | Section |
 | --- | --- |
-| Systems of Linear Algebraic Equations | |
+| 1. Systems of Linear Algebraic Equations | [Matrices](https://github.com/quantophile/math/blob/master/Numerical%20Methods/01-1-matrices.pdf)|
 
 ## Real Analysis
 
