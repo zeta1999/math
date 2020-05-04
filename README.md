@@ -28,9 +28,7 @@ This Git repo contains meticulous and conscientiously written notes on **mathema
 | | [Sample Space, Events](https://github.com/quantophile/math/blob/master/Probability%20Theory/01-2-the_sample_space_and_events.pdf)|
 | | Discrete sample space |
 
-## A first course in ordinary and partial differential equations
-
-### ODEs
+## Ordinary Differential Equations
 
 | Chapter | Section |
 | --- | --- |
@@ -51,4 +49,12 @@ This Git repo contains meticulous and conscientiously written notes on **mathema
 | | [Non-homogeneous equations, variation of parameters and Green's function](https://github.com/quantophile/math/blob/master/ODEs/05-4-non-homogeneous_equations_variation_of_params_and_greens_functions.pdf)|
 | | [Variation of parameters and Green's function extended to non-homogeneous equations of arbitrary order](https://github.com/quantophile/math/blob/master/ODEs/05_5_variation_of_parameters_greens_functions_continued.pdf)|
 
-### PDEs
+## Partial Differential Equations
+
+### A first course in PDEs
+| Chapter | Section |
+| --- | --- |
+| 1. What are Partial Differential Equations | [Brief Historical Comments](https://github.com/quantophile/math/blob/master/PDEs/01-1-brief_historical_comments.pdf)|
+| | [Introduction](https://github.com/quantophile/math/blob/master/PDEs/01-2-introduction.pdf)|
+| | [Classical Solutions](https://github.com/quantophile/math/blob/master/PDEs/01-3-classical_solutions.pdf)|
+
