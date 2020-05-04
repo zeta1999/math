@@ -20,6 +20,9 @@ This Git repo contains meticulous and conscientiously written notes on **mathema
 ## Functional Analysis
 ## Measure Theory
 ## Vector Calculus
+| Chapter | Section |
+| --- | --- |
+| 2. Differentiation in several variables  | [Functions of several variables](https://github.com/quantophile/math/blob/master/Vector%20Calculus/02-1-functions_of_several_variables.pdf) |
 ## Undergraduate Probability theory
 
 | Chapter | Section |
