@@ -43,7 +43,7 @@ This Git repo contains meticulous and conscientiously written notes on **mathema
 | | [Linear first order differential equations](https://github.com/quantophile/math/blob/master/ODEs/04-3-Linear_first_order_differential_equations.pdf)|
 | | [Existence and uniqueness of solutions](https://github.com/quantophile/math/blob/master/ODEs/04-4-existence_and_uniqueness_of_solutions.pdf)|
 | | [Dimension of the solution space](https://github.com/quantophile/math/blob/master/ODEs/04-5-dimension_of_the_solution_space.pdf)|
-| | [The Wronskian](https://github.com/quantophile/math/blob/master/ODEs/04-6-the_wronskian.pdf)|
+| | [The Wronskian](https://github.com/quantophile/math/blob/master/ODEs/04-6_the_wronskian.pdf)|
 | | [Abel's Formula](https://github.com/quantophile/math/blob/master/ODEs/04-7_abels_formula.pdf)|
 | 5. Equations with constant coefficients | [Introduction](https://github.com/quantophile/math/blob/master/ODEs/05-1-introduction.pdf)|
 | | [Linear homogeneous equations of order two](https://github.com/quantophile/math/blob/master/ODEs/05-2-linear_homogenous_equations_of_order_2.pdf)|
