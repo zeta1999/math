@@ -10,6 +10,7 @@ This Git repo contains meticulous and conscientiously written notes on **mathema
 | |[Homogeneous systems of equations](https://github.com/quantophile/math/blob/master/Numerical%20Methods/01-4-homogeneous_system_of_equations.pdf)|
 | 3. Iterative techniques in Matrix Algebra | [Spectral radius](https://github.com/quantophile/math/blob/master/Numerical%20Methods/03-1-spectral_radius.pdf)|
 | | [Convergent matrices](https://github.com/quantophile/math/blob/master/Numerical%20Methods/03-2-convergent_matrices.pdf)|
+| | [Solving some fun engineering problems using iterative methods](https://github.com/quantophile/math/blob/master/Numerical%20Methods/03_3_solving_some_fun_engineering_problems_using_iterative_methods.pdf)|
 | 4. Interpolation | [Cubic Spline interpolation in Python](https://github.com/quantophile/math/blob/master/Numerical%20Methods/cubic_spline_interpolation.ipynb)|
 
 ## Real Analysis
